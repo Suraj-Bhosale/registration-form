@@ -34,4 +34,22 @@ form{
     font-family: 'Tiro Bangla', serif;
 }
 
+@media only screen and (max-width: 800px) {
+    .container  h1{
+        text-align: center;
+        color: red;
+        padding-top: 250px;
+        font-family: 'Antonio', sans-serif;
+    }
+    .flex-container{
+        height: 80vh;
+        padding-top: 100px;
+      
+    }
+    
+    .flex-item{
+        margin: 50px 100px;
+    }
+  }
+
 
