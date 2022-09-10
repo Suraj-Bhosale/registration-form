@@ -1,0 +1,37 @@
+*{
+    margin : 0;
+}
+
+body{
+    background-image: url("https://wallpaperaccess.com/full/1092758.jpg");
+}
+
+.flex-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.flex-item{
+    margin: 0 200px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+}
+
+.container  h1{
+    text-align: center;
+    color: red;
+    padding-top: 50px;
+    font-family: 'Antonio', sans-serif;
+}
+
+form{
+    padding: 50px 20px;
+    margin: 0 200px;
+    font-family: 'Antonio', sans-serif;
+    font-family: 'Tiro Bangla', serif;
+}
+
+
